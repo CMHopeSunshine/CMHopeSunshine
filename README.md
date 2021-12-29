@@ -1,4 +1,9 @@
-### Hi there 👋
+- 👋 这里是惜月，一名大三学生
+- 🌱 Python、C++、C#、Java、JavaScript、Matlab都会一点
+- 👀 喜欢玩原神、LOL、金铲铲之战、炉石传说以及各大3A
+- 📫 最近在学习qqbot，包括HoshinoBot、Adachi-BOT等
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=CMHopeSunshine&show_icons=true)
 
 <!--
 **CMHopeSunshine/CMHopeSunshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
