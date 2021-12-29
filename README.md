@@ -3,7 +3,8 @@
 - 👀 喜欢玩原神、LOL、金铲铲之战、炉石传说以及各大3A
 - 📫 最近在学习qqbot，包括HoshinoBot、Adachi-BOT等
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=CMHopeSunshine&show_icons=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=CMHopeSunshine&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<!--![Github Stats](https://github-readme-stats.vercel.app/api?username=CMHopeSunshine&show_icons=true)-->
 
 <!--
 **CMHopeSunshine/CMHopeSunshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
