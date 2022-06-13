@@ -1,5 +1,8 @@
++ 摸鱼摸鱼~
++ 人生苦短，我用Python
++ 正在开发Nonebot原神插件
 <a href="https://github.com/CMHopeSunshine">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CMHopeSunshine&show_icons=true&theme=dracula" />
+  <img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CMHopeSunshine&show_icons=true&theme=dracula" />
 </a>
 <br>
 <a href="https://github.com/CMHopeSunshine/LittlePaimon">
