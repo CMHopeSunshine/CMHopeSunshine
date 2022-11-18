@@ -9,12 +9,22 @@
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMHopeSunshine&layout=compact"></img>
 </p>
 
-## I'm **惜月**
+## 🌟 I'm **惜月**
 
+- 👨🏻‍🎓A Chinese Student
 - 🐠Touch fish~
-- 🎮Playing Genshin Impact、LOL
+- 📖Learning Python
 - 🤖Developing a [Genshin Impact Bot](https://github.com/CMHopeSunshine/LittlePaimon)
-- 😻Like Pokemon
+
+## 🎮 Playing **Games**
+
+- Genshin Impact
+- Honkai Impact
+- Pokemon
+- League of Legends
+- Teamfight Tactic
+- Hearthstone
+- ...
 
 ## My Genshin Info
-<img align="left" width="450px" alt="Genshin" src="https://genshin-card.getloli.com/16/49837885.png" />
+<img align="left" width="350px" alt="Genshin" src="https://genshin-card.getloli.com/16/49837885.png" />
