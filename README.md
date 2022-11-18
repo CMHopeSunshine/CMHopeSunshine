@@ -17,27 +17,4 @@
 - 😻Like Pokemon
 
 ## My Genshin Info
-<img align="left" alt="Genshin" src="https://genshin-card.getloli.com/16/49837885.png" />
-
-<!-- <a href="https://github.com/CMHopeSunshine">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=CMHopeSunshine&count_private=true&include_all_commits=true&show_icons=true&theme=dracula"/>
-</a>
-
-尘世闲游
-🤖原神Bot开发(Ctrl cV)ing~~
-
-- 🐠Touch fish~
-- 🎮Playing Genshin Impact、LOL
-- 😻Like Pokemon
-----
-
-
-<img align="right" alt="Genshin" src="https://genshin-card.getloli.com/16/49837885.png" />
-
-从21-12-30开始统计的访问量：
-
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=CMHopeSunshine.github)
-
-<img align="left" src="https://img.shields.io/github/languages/top/CMHopeSunshine?color=yellow" alt="languages-top" />
-
----- -->
+<img align="left" width="450px" alt="Genshin" src="https://genshin-card.getloli.com/16/49837885.png" />
