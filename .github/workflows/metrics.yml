@@ -29,6 +29,13 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_skipped: CMHopeSunshine
+          plugin_activity_visibility: public
           plugin_calendar: yes
           plugin_calendar_limit: 1
           plugin_code: yes
@@ -43,17 +50,6 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_settings: {
-  "url": "https://skyline.github.com/${login}/${year}",
-  "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
-  "wait": 1,
-  "hide": "button, footer, a"
-}
-
-          plugin_skyline_year: current-year
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
