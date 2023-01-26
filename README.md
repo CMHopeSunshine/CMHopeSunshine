@@ -36,7 +36,6 @@
 - Pokemon
 - League of Legends
 - Teamfight Tactic
-- Hearthstone
 - ...
 
 ## 🎮 My **Genshin** Info
