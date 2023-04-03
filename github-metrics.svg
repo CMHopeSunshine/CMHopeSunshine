@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1873" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1639" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.01m added, 53.7k removed
+                                    809k added, 52.1k removed
                                 </div>
                             </section>
                             <section>
@@ -482,6 +482,54 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">CMHopeSunshine/ChatGPT-Next-Web</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a474303</div>
+                                        <div class="message">Merge pull request #415 from RugerMcCarthy/opt/back_to_autoscroll
+
+opt: back to autoscroll when hit bottom</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2a79e8</div>
+                                        <div class="message">opt: back to auto scroll</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec88785</div>
+                                        <div class="message">Merge branch 'Yidadaa:main' into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a9751e</div>
+                                        <div class="message">Merge pull request #3 from Yidadaa/main
+
+Fork Sync</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#34ea20b</div>
+                                        <div class="message">Merge pull request #2 from Yidadaa/main
+
+Fork Sync</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4dbc984</div>
+                                        <div class="message">Merge pull request #1 from Yidadaa/main
+
+Fork Sync</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 5 commits in
                                         <span class="repo">CMHopeSunshine/ChatGPT-Next-Web</span>
                                     </div>
@@ -642,106 +690,6 @@ ci(sync): skip main repo execution</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 21 commits in
-                                        <span class="repo">CMHopeSunshine/ChatGPT-Next-Web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e2c1475</div>
-                                        <div class="message">revert: fix mobile scroll</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d34b0f</div>
-                                        <div class="message">chore: fix mobile scroll</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b44caee</div>
-                                        <div class="message">fix: #289 #367 #353 #369 provide more error message info</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d60a41</div>
-                                        <div class="message">chore: fix usage display</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e8d71c8</div>
-                                        <div class="message">chore: fix preview bubble</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1afca0b</div>
-                                        <div class="message">fix: mobile scroll problem</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f52bcc2</div>
-                                        <div class="message">chore: update readme</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2647bdb</div>
-                                        <div class="message">fixup: ux improve</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e8dd391</div>
-                                        <div class="message">Merge pull request #378 from Yidadaa/prompt-edit
-
-feat: add context prompt edit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e3c3cd3</div>
-                                        <div class="message">fixup: translation context</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b05b96e</div>
-                                        <div class="message">Merge pull request #376 from cyhhao/patch-2
-
-translate SendPreviewBubble</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b85245e</div>
-                                        <div class="message">feat: #138 add context prompt, close #330 #321</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a10f4d8</div>
-                                        <div class="message">translate SendPreviewBubble</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c978de2</div>
-                                        <div class="message">fix: #253 #356 auto scroll ux</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c18627</div>
-                                        <div class="message">refactor: split homt.tsx components</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f0108b</div>
-                                        <div class="message">fix: #289 use highlight.js instead of prism</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b5af27</div>
-                                        <div class="message">fix: #367 failed to fetch account usage</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#37587f6</div>
-                                        <div class="message">fix: #244 optimize polyfill</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#328a903</div>
-                                        <div class="message">Merge branch 'main' into prompt-edit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1602879</div>
-                                        <div class="message">fix: #203 pwa installation problem</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -803,7 +751,7 @@ translate SendPreviewBubble</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2023, 19:09:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Apr 2023, 20:20:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
