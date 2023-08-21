@@ -33,6 +33,7 @@
 - [nonebot-adapter-villa](https://github.com/CMHopeSunshine/nonebot-adapter-villa) - MiHoYo Villa Adapter for NoneBot2.
 - [Villa](https://github.com/CMHopeSunshine/villa-py) - Python SDK for MiHoYo Villa.
 - [amis-python](https://github.com/CMHopeSunshine/amis-python) - Python encapsulation based on Baidu Amis front-end framework.
+- [unqdantic](https://github.com/CMHopeSunshine/unqdantic) - Python embedded NoSQL database ODM based on UnQLite. 
 - And more plugins for NoneBot2...
 
 ## 🌍 **Environment**
