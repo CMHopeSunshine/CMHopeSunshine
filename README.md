@@ -17,7 +17,7 @@
 
 - 👨🏻‍🎓Graduated from Computer Science and Technology.
 - 🤖Being good at [Python chatbot](https://github.com/nonebot/nonebot2) development.
-- ✏️Learning Python/Node.js/Java/Linux etc.
+- ✏️Learning Python/Node.js/Java/Linux/database etc.
 - 👀Looking for a suitable job.
 
 ## 📖 **Learning**
@@ -28,12 +28,13 @@
 ![](https://img.shields.io/badge/-Java-31a8ff?style=flat-square&logo=springboot&logoColor=fff)
 
 - [NoneBot2](https://github.com/nonebot/nonebot2) - A Python asynchronous cross-platform chatbot framework.
+- [cherry-orm](https://github.com/CMHopeSunshine/cherry-orm) - Python asynchronous ORM based on SQLAlchemy and Pydantic.
+- [unqdantic](https://github.com/CMHopeSunshine/unqdantic) - Python embedded NoSQL database ODM based on UnQLite. 
 - [LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon) - A MiHoYo Game Chatbot based on NoneBot2.
 - [nonebot-adapter-disord](https://github.com/CMHopeSunshine/adapter-discord) - Discord Adapter for NoneBot2.
 - [nonebot-adapter-villa](https://github.com/CMHopeSunshine/nonebot-adapter-villa) - MiHoYo Villa Adapter for NoneBot2.
 - [Villa](https://github.com/CMHopeSunshine/villa-py) - Python SDK for MiHoYo Villa.
 - [amis-python](https://github.com/CMHopeSunshine/amis-python) - Python encapsulation based on Baidu Amis front-end framework.
-- [unqdantic](https://github.com/CMHopeSunshine/unqdantic) - Python embedded NoSQL database ODM based on UnQLite. 
 - And more plugins for NoneBot2...
 
 ## 🌍 **Environment**
