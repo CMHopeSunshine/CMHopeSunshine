@@ -1,4 +1,4 @@
-# Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+CherishMoon)](https://git.io/typing-svg)
 
 <a>
   <img align="right" width="450px" src="./github-metrics.svg" />
@@ -10,15 +10,15 @@
 </p>
 
 ## 🌟 I'm **惜月**
+[![wakatime](https://wakatime.com/badge/user/eed3f89c-5d65-46e6-ab19-78dcc4b62b3f.svg)](https://wakatime.com/@eed3f89c-5d65-46e6-ab19-78dcc4b62b3f)
 [![Bilibili](https://img.shields.io/badge/github-CMHopeSunshine-00A2D8.svg?logo=github)](https://github.com/CMHopeSunshine)
 [![Bilibili](https://img.shields.io/badge/bilibili-CherishMoon-00A2D8.svg?logo=bilibili)](https://space.bilibili.com/85589983)
 [![miyoushe](https://img.shields.io/badge/%E7%B1%B3%E6%B8%B8%E7%A4%BE-%E6%83%9C%E6%9C%88-00A2D8.svg)](https://www.miyoushe.com/ys/accountCenter/postList?id=49837885)
 
-
+- 🦸Full-time? Open Source Developer.
 - 👨🏻‍🎓Graduated from Computer Science and Technology.
-- 🤖Being good at [Python chatbot](https://github.com/nonebot/nonebot2) development.
+- 🤖Passionate about Developing [Python Chatbot](https://github.com/nonebot/nonebot2) related Projects.
 - ✏️Learning Python/Node.js/Java/Linux/database etc.
-- 👀Looking for a suitable job.
 
 ## 📖 **Learning**
 
@@ -31,11 +31,12 @@
 - [cherry-orm](https://github.com/CMHopeSunshine/cherry-orm) - Python asynchronous ORM based on SQLAlchemy and Pydantic.
 - [unqdantic](https://github.com/CMHopeSunshine/unqdantic) - Python embedded NoSQL database ODM based on UnQLite. 
 - [LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon) - A MiHoYo Game Chatbot based on NoneBot2.
-- [nonebot-adapter-disord](https://github.com/CMHopeSunshine/adapter-discord) - Discord Adapter for NoneBot2.
+- [nonebot-adapter-disord](https://github.com/nonebot/adapter-discord) - Discord Adapter for NoneBot2.
+- [nonebot-adapter-dodo](https://github.com/nonebot/adapter-dodo) - DoDo Adapter for NoneBot2.
 - [nonebot-adapter-villa](https://github.com/CMHopeSunshine/nonebot-adapter-villa) - MiHoYo Villa Adapter for NoneBot2.
 - [Villa](https://github.com/CMHopeSunshine/villa-py) - Python SDK for MiHoYo Villa.
 - [amis-python](https://github.com/CMHopeSunshine/amis-python) - Python encapsulation based on Baidu Amis front-end framework.
-- And more plugins for NoneBot2...
+- And some plugins for NoneBot2...
 
 ## 🌍 **Environment**
 
