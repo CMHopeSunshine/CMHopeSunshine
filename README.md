@@ -31,7 +31,7 @@
 - [cherry-orm](https://github.com/CMHopeSunshine/cherry-orm) - Python asynchronous ORM based on SQLAlchemy and Pydantic.
 - [unqdantic](https://github.com/CMHopeSunshine/unqdantic) - Python embedded NoSQL database ODM based on UnQLite. 
 - [LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon) - A MiHoYo Game Chatbot based on NoneBot2.
-- [nonebot-adapter-disord](https://github.com/nonebot/adapter-discord) - Discord Adapter for NoneBot2.
+- [nonebot-adapter-discord](https://github.com/nonebot/adapter-discord) - Discord Adapter for NoneBot2.
 - [nonebot-adapter-dodo](https://github.com/nonebot/adapter-dodo) - DoDo Adapter for NoneBot2.
 - [nonebot-adapter-villa](https://github.com/CMHopeSunshine/nonebot-adapter-villa) - MiHoYo Villa Adapter for NoneBot2.
 - [Villa](https://github.com/CMHopeSunshine/villa-py) - Python SDK for MiHoYo Villa.
