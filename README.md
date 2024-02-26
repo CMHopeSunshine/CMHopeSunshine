@@ -13,10 +13,8 @@
 [![wakatime](https://wakatime.com/badge/user/eed3f89c-5d65-46e6-ab19-78dcc4b62b3f.svg)](https://wakatime.com/@eed3f89c-5d65-46e6-ab19-78dcc4b62b3f)
 [![Bilibili](https://img.shields.io/badge/github-CMHopeSunshine-00A2D8.svg?logo=github)](https://github.com/CMHopeSunshine)
 [![Bilibili](https://img.shields.io/badge/bilibili-CherishMoon-00A2D8.svg?logo=bilibili)](https://space.bilibili.com/85589983)
-[![miyoushe](https://img.shields.io/badge/%E7%B1%B3%E6%B8%B8%E7%A4%BE-%E6%83%9C%E6%9C%88-00A2D8.svg)](https://www.miyoushe.com/ys/accountCenter/postList?id=49837885)
 
-- 🦸Full-time? Open Source Developer.
-- 👨🏻‍🎓Graduated from Computer Science and Technology.
+- 🐍Amateur Python Programmer.
 - 🤖Passionate about Developing [Python Chatbot](https://github.com/nonebot/nonebot2) related Projects.
 - ✏️Learning Python/Node.js/Java/Linux/database etc.
 
