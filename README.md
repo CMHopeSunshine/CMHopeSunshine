@@ -15,6 +15,7 @@
 [![Bilibili](https://img.shields.io/badge/bilibili-CherishMoon-00A2D8.svg?logo=bilibili)](https://space.bilibili.com/85589983)
 
 - 🐍Amateur Python Programmer.
+- 🔧Working in Zhuhai, China.
 - 🤖Passionate about Developing [Python Chatbot](https://github.com/nonebot/nonebot2) related Projects.
 - ✏️Learning Python/Node.js/Java/Linux/database etc.
 
@@ -48,9 +49,9 @@
 
 - Honkai Star Rail
 - Genshin Impact
-- Honkai Impact
 - Pokemon
 - League of Legends
 - Teamfight Tactic
+- PUBG
 - ...
 
