@@ -17,7 +17,7 @@
 - 🐍Amateur Python Programmer.
 - 🔧Working in Zhuhai, China.
 - 🤖Passionate about Developing [Python Chatbot](https://github.com/nonebot/nonebot2) related Projects.
-- ✏️Learning Python/Node.js/Java/Linux/database etc.
+- ✏️Learning Python/C#/C++/VB/Java/SQL/Linux etc.
 
 ## 📖 **Learning**
 
